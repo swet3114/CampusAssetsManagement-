@@ -615,7 +615,7 @@ export default function Scan() {
                   name="department"
                   value={form.department}
                   onChange={onChange}
-                  required
+                  
                 >
                   <option value="">Select Department</option>
                   {departments.map((department) => (
