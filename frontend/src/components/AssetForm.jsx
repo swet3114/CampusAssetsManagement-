@@ -386,7 +386,7 @@ export default function AssetForm() {
           status: "active",
           desc: "",
 
-          assigned_type: "general",
+          assigned_type: "",
           assigned_faculty_name: "",
           employee_code: "",
           bill_no: "",
